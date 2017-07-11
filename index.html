@@ -14,7 +14,22 @@
   </head>
 
   <body>
-    <div id="container">
+ <div class="grid" id="searchBar">
+      <div>
+          <div id="search">
+              <form role="search" method="get" action="http://violetblue.githb.io/search/">
+                  <input id="searchString" name="searchString"
+                         placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
+                  <input id="searchButton" name="googleSearchName" type="button" value="Search">
+              </form>
+          </div>
+        <div id="archives">
+              browse by <a title="The complete archive of violetblue's Blog by category"
+                     href="http://violetblue.githb.io/categoryview">category</a>
+              or <a title="The complete archive of {{ site.name }}'s Blog by month"
+                    href="http://violetblue.githb.io/monthview">date</a>
+          </div>
+   </div>
       <div class="inner">
 
         <header>
