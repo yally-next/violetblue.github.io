@@ -12,28 +12,28 @@ Hadoop
 
 Copyright © 2014 The Apache Software Foundation.
 
-[Apache License 2.0](#apache-license-2-0)
+[Apache License 2.0](#apache-license-20)
 
 HBase  
 [http://hbase.apache.org](http://hbase.apache.org)
 
 Copyright © 2007–2015 The Apache Software Foundation. All rights reserved.
 
-[Apache License 2.0](#Apache%20License%202.0)
+[Apache License 2.0](#apache-license-20)
 
 JLine  
 [https://github.com/jline/jline](https://github.com/jline/jline)
 
 Copyright © 2002-2006, Marc Prud'hommeaux [mwp1@cornell.edu]
 
-[BSD-3-Clause](#BSD-3-Clause)
+[BSD-3-Clause](#bsd-3-clause)
 
 JOpt Simple  
 [http://pholser.github.com/jopt-simple](http://pholser.github.com/jopt-simple)
 
 Copyright © 2015. All Rights Reserved.
 
-[MIT License](#MIT%20License)
+[MIT License](#mit-license)
 
 jQuery  
 [http://github.com/jquery/jquery/](http://github.com/jquery/jquery/)
@@ -47,21 +47,21 @@ JUnit
 
 Copyright © 2002-2015 JUnit. All Rights Reserved.
 
-[CPL-1.0](#CPL-1.0)
+[CPL-1.0](#cpl-10)
 
 Opencsv  
 [http://opencsv.sf.net](http://opencsv.sf.net)
 
 Copyright © 2015. All rights reserved.
 
-[Apache License 2.0](#Apache%20License%202.0)
+[Apache License 2.0](#apache-license-20)
 
 Reflections  
 [https://github.com/ronmamo/reflections](https://github.com/ronmamo/reflections)
 
 Copyright © 2004 Sam Hocevar [sam@hocevar.net]
 
-[WTFPL](#WTFPL)
+[WTFPL](#wtfpl)
 
 ## Apache License 2.0
 ==================
@@ -132,7 +132,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, softwaredistributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions andlimitations under the License.
 
-BSD-3-Clause
+## BSD-3-Clause
 ============
 
 Copyright (c) \<YEAR\>, \<OWNER\>. All rights reserved.
@@ -160,7 +160,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-CPL-1.0
+## CPL-1.0
 =======
 
 Common Public License Version 1.0
@@ -251,7 +251,7 @@ Everyone is permitted to copy and distribute copies of this Agreement, but in or
 
 This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
 
-WTFPL
+## WTFPL
 =====
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSEVersion 2, December 2004
