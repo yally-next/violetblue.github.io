@@ -12,7 +12,7 @@ Hadoop
 
 Copyright © 2014 The Apache Software Foundation.
 
-[Apache License 2.0](#Apache%20License%202.0)
+[Apache License 2.0](#Apache-License-2.0)
 
 HBase  
 [http://hbase.apache.org](http://hbase.apache.org)
