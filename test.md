@@ -63,7 +63,7 @@ Copyright © 2004 Sam Hocevar [sam@hocevar.net]
 
 [WTFPL](#WTFPL)
 
-#Apache License 2.0
+## Apache License 2.0
 ==================
 
 Apache LicenseVersion 2.0, January 2004http://www.apache.org/licenses/
